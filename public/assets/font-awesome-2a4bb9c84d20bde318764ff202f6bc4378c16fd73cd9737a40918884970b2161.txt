@@ -6,9 +6,8 @@
  * -------------------------- */
 @font-face {
   font-family: 'FontAwesome';
-  src: url('../fonts/fontawesome-webfont.eot?v=4.6.3');
-  src: url('../fonts/fontawesome-webfont.eot?#iefix&v=4.6.3') format('embedded-opentype'), url('../fonts/fontawesome-webfont.woff2?v=4.6.3') format('woff2'), url('../fonts/fontawesome-webfont.woff?v=4.6.3') format('woff'), url('../fonts/fontawesome-webfont.ttf?v=4.6.3') format('truetype'), url('../fonts/fontawesome-webfont.svg?v=4.6.3#fontawesomeregular') format('svg');
-  font-weight: normal;
+   src: url('/assets/fontawesome-webfont-50bbe9192697e791e2ee4ef73917aeb1b03e727dff08a1fc8d74f00e4aa812e1.eot');
+   src: url('/assets/fontawesome-webfont-50bbe9192697e791e2ee4ef73917aeb1b03e727dff08a1fc8d74f00e4aa812e1.eot?#iefix') format('eot'), url('/assets/fontawesome-webfont-adbc4f95eb6d7f2738959cf0ecbc374672fce47e856050a8e9791f457623ac2c.woff') format('woff'), url('/assets/fontawesome-webfont-ae19e2e4c04f2b04bf030684c4c1db8faf5c8fe3ee03d1e0c409046608b38912.ttf') format('truetype'), url('/assets/fontawesome-webfont-8e3586389bb4cd01b3f85bb3b622739bde6627f28bba63a020c223ca9cf1b9ae.svg#FontAwesome') format('svg');  font-weight: normal;
   font-style: normal;
 }
 .fa {
